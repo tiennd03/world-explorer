@@ -4,7 +4,7 @@ Browse every country in the world, filter by region, and open any country to see
 
 Built with **Angular 20** and **Tailwind CSS 4**, with country data bundled as an open dataset and live weather from a free public API — no backend and no API keys.
 
-> **Live demo:** _add your deployed URL here_
+> **Live demo:** [https://tiennd-world-explorer.web.app](https://tiennd-world-explorer.web.app)
 
 <!-- Screenshots: docs/screenshots/list.png, detail.png, dark.png -->
 
