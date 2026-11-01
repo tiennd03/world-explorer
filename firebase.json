@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "tiennd-world-explorer",
     "public": "dist/world-explorer/browser",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [{ "source": "**", "destination": "/index.html" }]
